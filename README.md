@@ -12,3 +12,17 @@ Each User able to see blog posted by all active users and can read each blog in 
 ![Blog_f_2](./blogpost/public/animation/blog-edit&view.gif)
 
 
+Logged In user is able to comment on any blog and able to perform deletion and updation on his/her blog, But not allowed to alter comments made by other users.
+
+![Blog_f_3](./blogpost/public/animation/blog-comment_editupdate.gif)
+
+
+
+User specific features:
+> Able to see his own blog-list.
+> Able to update and delete his own blog-list
+> Able to write new blog.
+
+Project Stack: HTML,CSS,JS,Bootstrap,React,Redux,Python,Flask,Mysql,JWT-Authentication
+
+
