@@ -19,9 +19,9 @@ Logged In user is able to comment on any blog and able to perform deletion and u
 
 
 User specific features:
-> Able to see his own blog-list.
-> Able to update and delete his own blog-list
-> Able to write new blog.
+> Able to see his own blog-list,
+> update and delete his own blog-list,
+> write new blog.
 
 Project Stack: HTML,CSS,JS,Bootstrap,React,Redux,Python,Flask,Mysql,JWT-Authentication
 
